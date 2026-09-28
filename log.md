@@ -1,1 +1,5 @@
-- 
+- lidar for book lab scan?
+- individual ob
+- most countries have standard code systems for identifying graveyards and monuments. you have to register gravesites with the government to get those codes though so in the meantime you use a system that works for you.
+- BB = Billings Family Estate Cemetery code 
+- BB(x) = Monument code 
