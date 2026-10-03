@@ -41,5 +41,5 @@ so even though i know the instructions are to give myself enough info to retrace
 14. i think this would be a more rewarding endeavour if i saw an actual need to digitize my notes. i nonetheless recognize the value in the activity and appreciate that frustration is still progress.
 <img width="667" height="518" alt="image" src="https://github.com/user-attachments/assets/85a351e5-bff7-4643-a4be-b49d4268a6c3" />
 
-15. 
+15. had a look at the syllabus for next week, i think i'm going to try some of the skill building exercises to get a little more comfortable understanding what does what. I'm very overwhelmed by the information in the code blocks atm. 
   
